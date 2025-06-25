@@ -1,5 +1,0 @@
-relationship 074a6c11-210f-46cb-a21e-b4af62c46597
-	joinOnDateBehavior: datePartOnly
-	fromColumn: 'Credit card transactions - India - Simple'.Date
-	toColumn: LocalDateTable_c4e66e49-818c-45d5-8733-03e0951156e1.Date
-
